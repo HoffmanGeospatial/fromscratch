@@ -1,0 +1,20 @@
+# some information about you
+name: "Dallas Hoffman"
+nickname: "Dallas"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/dallvatar.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "cehoffm3@ncsu.edu"
+  phone: "704-787-5204"
+  github: HoffmanGeospatial
+  linkedin: CEDallasHoffman
+
+# some summary about what you do
+summary:
+  - I am a Geospatial Analyst
+  - I am a Data Science Engineer
+  - I love G.I.S.
+  - I work on open-source projects
+  - I love to work in photogrammetry, databases, environmental analysis
